@@ -2,7 +2,7 @@
 # Welcome to your CDK Python project!
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`sqs_lambda_demo_stack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
+which contains an Amazon SQS queue that triggers Amazon Lambda.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
